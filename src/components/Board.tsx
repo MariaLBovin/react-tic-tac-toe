@@ -1,4 +1,3 @@
-import { useState } from "react"
 import { Square } from "./Square"
 
 export const Board = ({xIsNext , squares, onPlay} :{xIsNext : boolean, squares : string[], onPlay : (nextSquares: string[]) => void}) => {

@@ -1,4 +1,4 @@
-import {useState} from 'react'
+
 
 export const Square = ({value, onSquareClick} :{value:string; onSquareClick : () => void }) => {
 

@@ -1,6 +1,6 @@
 import { useState } from "react"
 import { Board } from "./Board"
-import { Square } from "./Square"
+
 
 export const Game = () => {
     const [xIsNext, setXIsNext] = useState(true)
