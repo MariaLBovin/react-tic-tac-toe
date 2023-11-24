@@ -2,7 +2,7 @@
 
 ## School Project
 
-Welcome to a game of Tic-Tac-Toe! This project is a school assignment designed to provide a user-friendly interface for playing Tic-Tac-Toe, keeping track of player scores, and maintaining a history of games.
+Welcome to a game of Tic-Tac-Toe! This project is a school assignment designed to provide a user-friendly interface for playing Tic-Tac-Toe, keeping track of player scores, and maintaining a history of games. Play against yourself in this solo Tic-Tac-Toe challenge.
 
 ## Features
 
@@ -24,9 +24,6 @@ Welcome to a game of Tic-Tac-Toe! This project is a school assignment designed t
 - **Browser Session Persistence**: Close the browser and return to the game exactly where it was left off.
 - **Statistics Reset**: The ability to reset statistics ensures a clean slate for new players.
 
-### Playing Against Yourself
-
-- **Single Player Mode**: Play against yourself in this solo Tic-Tac-Toe challenge.
 
 ## Technologies used
 - React
