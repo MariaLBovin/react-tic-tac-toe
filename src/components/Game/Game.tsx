@@ -5,7 +5,6 @@ import styles from './Game.module.css'
 
 export const Game = () => {
   const [, setXIsNext] = useState(true);
-  const [showResult, setShowResult] = useState(false)
   const [history, setHistory] = useState([Array(9).fill("")]);
   const currentSquares = history[history.length - 1];
 
