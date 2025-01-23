@@ -1,0 +1,33 @@
+.game {
+  padding: var(--gap);
+}
+.game-header {
+  font-size: 2.4rem;
+  text-align: center;
+}
+.game-subheader {
+  font-size: 1.8rem;
+  text-align: center;
+}
+.game-over {
+  margin-top: 20px;
+  text-align: center;
+
+}
+
+.game-button {
+  padding: 10px 20px;
+  font-size: 1.2rem;
+  background-color: var(--green);
+  color: var(--almost-white);
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+.game-winner {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 20px;
+  text-align: center;
+}
