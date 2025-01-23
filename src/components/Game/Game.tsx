@@ -26,6 +26,7 @@ export const Game = () => {
   return (
     <div className={styles.game}>
       <h1 className={styles['game-header']}>Välkommen till Luffarschack</h1>
+      <h2 className={styles['game-subheader']}>Du börjar!</h2>
         <Board squares={currentSquares} onPlay={handlePlay} />
         {(winner || isDraw) && (
         <div className={styles['game-over']}>

@@ -5,6 +5,10 @@
   font-size: 2.4rem;
   text-align: center;
 }
+.game-subheader {
+  font-size: 1.8rem;
+  text-align: center;
+}
 .game-over {
   margin-top: 20px;
   text-align: center;
