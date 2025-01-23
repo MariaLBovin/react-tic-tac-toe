@@ -1,8 +1,9 @@
 # Tic-Tac-Toe Game
+https://marialbovin.github.io/react-tic-tac-toe/
 
 ## School Project
 
-Welcome to a game of Tic-Tac-Toe! This project is a school assignment designed to provide a user-friendly interface for playing Tic-Tac-Toe, keeping track of player scores, and maintaining a history of games. Play against yourself in this solo Tic-Tac-Toe challenge.
+Welcome to a game of Tic-Tac-Toe! This project is a school assignment designed to provide a user-friendly interface for playing Tic-Tac-Toe, keeping track of player scores, and maintaining a history of games. Play against the computer in this solo Tic-Tac-Toe challenge.
 
 ## Features
 
@@ -15,4 +16,4 @@ Welcome to a game of Tic-Tac-Toe! This project is a school assignment designed t
 - React
 - Typescript
 - HTML5
-- CSS 
+- CSS-modules
